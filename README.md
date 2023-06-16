@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Marcelo Gomes
+## 🌱 I’m currently studying in the 2nd year of the Computer Science Bachelor
 ## 📫 How to reach me
 - Email: mars.gomes2003@gmail.com
 - Discord: marcelinhers
