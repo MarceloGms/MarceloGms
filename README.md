@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Marcelo Gomes
-## 🌱 I’m currently studying at the university of coimbra
+## 🌱 I’m currently studying at the University of Coimbra
 - 2nd year of the Computer Science Bachelor
 ## 📫 How to reach me
 - Email: mars.gomes2003@gmail.com
