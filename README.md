@@ -13,8 +13,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelogms&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelogms" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelogms&theme=dark" alt="marcelogms" /></p>
-
 
 
 
