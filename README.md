@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcelo Gomes</h1>
 
-### 🌱 I’m currently studying at the University of Coimbra
+### 🌱 I’m currently studying at Universidade de Coimbra
 - 3rd year of the Computer Science Bachelor
 
 ### 📫 How to reach me
